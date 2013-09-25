@@ -18,7 +18,8 @@ Maven repository for some softwares.
   </repositories>
 ```
 
-## [Trie4J](https://github.com/takawitter/trie4j)
+## Trie4J
+[Tri4J project](https://github.com/takawitter/trie4j)
 
 ```xml
   <dependencies>
@@ -30,7 +31,8 @@ Maven repository for some softwares.
   </dependencies>
 ```
 
-## [JSONMAN](https://github.com/takawitter/jsonman)
+## JSONMAN
+[JSONMAN project](https://github.com/takawitter/jsonman)
 
 ```xml
   <dependencies>
